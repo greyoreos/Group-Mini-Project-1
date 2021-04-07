@@ -1,4 +1,4 @@
-# Group-Mini-Project-1- 
+# Group-Mini-Project-1
 
 A mini group project done by Hilary YJ Lim, Ying Ki Lo and I (Siew Qi Rui). 
 
